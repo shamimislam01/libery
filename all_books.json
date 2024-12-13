@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Bangla",
+        "author": "Shamim",
+        "isbn": 32548,
+        "year": 2024,
+        "price": 520,
+        "quantity": 12,
+        "bookAddedAt": "13-12-2024 09:52:55",
+        "bookLastUpdatedAt": "",
+        "is_lent": false,
+        "lent_to": null,
+        "lent_on": null
+    }
+]
